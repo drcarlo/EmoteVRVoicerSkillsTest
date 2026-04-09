@@ -45,7 +45,7 @@ EmoteVRVoicerSkillsTest/
 ├─ ProjectSettings/
 ├─ EmoteVRVoicerSkillsTest.slnx
 └─ README.md
-text```
+```
 
 ## Skills test brief
 
